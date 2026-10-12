@@ -1,0 +1,14 @@
+# Welcome to Math Utility
+
+### You will find in this repo the following
+stuff:
+
+* A Maven project to implement Math Util library 
+* A JUnit source code to demonstrate the Unit Testing,
+TDD & DDT technique
+* A CI script to check and build the project
+automatically with Github Actions
+
+### Connect me via: hoangnt20@fe.edu.vn
+
+#### &#164; 2026 - Gia.Kiss
