@@ -9,6 +9,9 @@ TDD & DDT technique
 * A CI script to check and build the project
 automatically with Github Actions
 
-### Connect me via: hoangnt20@fe.edu.vn
+### Screen-shots
+![JUnit with TDD, DDT](https://github.com/Gold-Experience10/math-uttil-fixed-direct/blob/main/srceen-shots/DDT%20with%20JUnit.jpg)
 
-#### &#164; 2026 - Gia.Kiss
+### Connect me via: giakietdoan13@gmail.com
+
+#### &#169; 2026 - Gia.Kiss
